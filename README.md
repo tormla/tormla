@@ -1,4 +1,4 @@
-## Hi there 👋
+## Velkommen til Tormod Larssen`s private repository 👋
 
 <!--
 **tormla/tormla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Jeg tester nå ut funksjonalitet på github med tanke på etablere en repository for virksomheten xxx.
+
+Opprettet profilen på GitHub for et par år siden, men nå 18. juni 2026 er første gangen jeg reelt sett begynner å teste ut funksjonaliteten her.
+
+
