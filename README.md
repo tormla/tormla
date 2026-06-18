@@ -19,3 +19,6 @@ Jeg tester nå ut funksjonalitet på github med tanke på etablere en repository
 Opprettet profilen på GitHub for et par år siden, men nå 18. juni 2026 er første gangen jeg reelt sett begynner å teste ut funksjonaliteten her.
 
 
+> Link til [Basic formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?versionId=free-pro-team%40latest&productId=contributing&restPage=writing-for-github-docs%2Cusing-markdown-and-liquid-in-github-docs)
+
+Her er en LINK
