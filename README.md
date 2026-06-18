@@ -21,4 +21,4 @@ Opprettet profilen på GitHub for et par år siden, men nå 18. juni 2026 er fø
 
 > Link til [Basic formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?versionId=free-pro-team%40latest&productId=contributing&restPage=writing-for-github-docs%2Cusing-markdown-and-liquid-in-github-docs)
 
-Her er en LINK
+Her er det mye å lære mye lære for en som lærte programmering i det forrige århundre!
